@@ -16,16 +16,3 @@ Two different version of the program is available:
     ./ray_tracer_preview -i <test_filename>
   e.g.
     ./ray_tracer_preview -i ./tests/00.txt
-
-III. GRADING
-
-The grading script goes through all tests in a given folder and provides you with a score. 
-To see your score, run the grading script by:
-  ./grading-script.py ./tests/
-
-Make sure to test your code with the grading script on delta or lab machines before submitting!
-
-Good luck, have fun!
-
-  
-  
